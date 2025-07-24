@@ -1,0 +1,501 @@
+Country,Region,Product_Category,Year,Sales,Profit
+United States,North America,Electronics,2020,85484.75,21063.34
+United States,North America,Clothing,2020,51577.21,6766.87
+United States,North America,Home & Garden,2020,114369.46,11907.79
+United States,North America,Sports,2020,59304.39,8105.78
+United States,North America,Books,2020,70877.75,13210.83
+Canada,North America,Electronics,2020,85750.63,10967.4
+Canada,North America,Clothing,2020,47507.94,9084.18
+Canada,North America,Home & Garden,2020,63825.42,12946.79
+Canada,North America,Sports,2020,63306.0,14022.85
+Canada,North America,Books,2020,66231.49,7916.94
+Mexico,North America,Electronics,2020,70722.99,8798.48
+Mexico,North America,Clothing,2020,62965.26,17747.65
+Mexico,North America,Home & Garden,2020,87403.04,14189.2
+Mexico,North America,Sports,2020,143480.24,19652.62
+Mexico,North America,Books,2020,92472.34,10883.86
+Brazil,South America,Electronics,2020,26947.25,4157.15
+Brazil,South America,Clothing,2020,48376.03,7555.7
+Brazil,South America,Home & Garden,2020,33713.86,8780.42
+Brazil,South America,Sports,2020,42904.55,4337.84
+Brazil,South America,Books,2020,63170.58,15527.42
+Argentina,South America,Electronics,2020,35865.68,9777.72
+Argentina,South America,Clothing,2020,32875.94,3705.5
+Argentina,South America,Home & Garden,2020,27423.94,6744.13
+Argentina,South America,Sports,2020,64004.74,12445.27
+Argentina,South America,Books,2020,52198.94,13162.33
+Chile,South America,Electronics,2020,74122.42,14732.51
+Chile,South America,Clothing,2020,14813.34,1556.64
+Chile,South America,Home & Garden,2020,33931.2,6844.4
+Chile,South America,Sports,2020,48490.48,8828.98
+Chile,South America,Books,2020,41879.68,4832.75
+United Kingdom,Europe,Electronics,2020,46725.59,13360.69
+United Kingdom,Europe,Clothing,2020,80569.18,22099.49
+United Kingdom,Europe,Home & Garden,2020,57236.01,15940.91
+United Kingdom,Europe,Sports,2020,92629.08,25863.73
+United Kingdom,Europe,Books,2020,49671.65,7231.55
+Germany,Europe,Electronics,2020,88378.04,24051.74
+Germany,Europe,Clothing,2020,63926.78,11729.43
+Germany,Europe,Home & Garden,2020,55841.74,9354.78
+Germany,Europe,Sports,2020,63875.18,13015.09
+Germany,Europe,Books,2020,53630.19,15786.39
+France,Europe,Electronics,2020,27451.39,4308.99
+France,Europe,Clothing,2020,64832.73,13001.28
+France,Europe,Home & Garden,2020,62756.7,8094.29
+France,Europe,Sports,2020,71589.61,10624.69
+France,Europe,Books,2020,91044.71,13431.6
+Italy,Europe,Electronics,2020,56284.44,12746.24
+Italy,Europe,Clothing,2020,87395.99,10317.79
+Italy,Europe,Home & Garden,2020,59993.88,8237.38
+Italy,Europe,Sports,2020,64425.82,15173.11
+Italy,Europe,Books,2020,63350.62,9204.79
+Spain,Europe,Electronics,2020,46653.04,11112.17
+Spain,Europe,Clothing,2020,76296.0,9728.06
+Spain,Europe,Home & Garden,2020,48116.25,13710.18
+Spain,Europe,Sports,2020,60824.08,14110.99
+Spain,Europe,Books,2020,75971.18,15644.75
+China,Asia,Electronics,2020,53129.83,14846.77
+China,Asia,Clothing,2020,68587.0,11509.31
+China,Asia,Home & Garden,2020,79053.41,22089.27
+China,Asia,Sports,2020,66241.11,15129.89
+China,Asia,Books,2020,68310.2,6956.67
+Japan,Asia,Electronics,2020,61703.55,6232.82
+Japan,Asia,Clothing,2020,57062.72,13602.56
+Japan,Asia,Home & Garden,2020,41839.31,10143.35
+Japan,Asia,Sports,2020,40826.63,10178.01
+Japan,Asia,Books,2020,79404.67,18383.98
+India,Asia,Electronics,2020,45111.77,7828.84
+India,Asia,Clothing,2020,39909.69,11757.48
+India,Asia,Home & Garden,2020,74618.15,16880.69
+India,Asia,Sports,2020,67501.7,14538.57
+India,Asia,Books,2020,34512.06,8437.87
+South Korea,Asia,Electronics,2020,43136.3,12427.21
+South Korea,Asia,Clothing,2020,61467.32,18030.27
+South Korea,Asia,Home & Garden,2020,37183.48,10047.99
+South Korea,Asia,Sports,2020,40766.33,8616.38
+South Korea,Asia,Books,2020,65043.84,13920.18
+Australia,Oceania,Electronics,2020,49419.62,14727.58
+Australia,Oceania,Clothing,2020,45158.28,12439.96
+Australia,Oceania,Home & Garden,2020,68417.7,16454.24
+Australia,Oceania,Sports,2020,24645.83,6454.06
+Australia,Oceania,Books,2020,55852.77,15786.68
+New Zealand,Oceania,Electronics,2020,76989.37,19990.99
+New Zealand,Oceania,Clothing,2020,74904.23,19412.07
+New Zealand,Oceania,Home & Garden,2020,49065.81,8592.24
+New Zealand,Oceania,Sports,2020,48195.7,5166.02
+New Zealand,Oceania,Books,2020,75383.55,11858.45
+South Africa,Africa,Electronics,2020,44183.02,4748.33
+South Africa,Africa,Clothing,2020,48365.77,6065.65
+South Africa,Africa,Home & Garden,2020,74048.46,10601.09
+South Africa,Africa,Sports,2020,40126.79,4427.44
+South Africa,Africa,Books,2020,95052.61,21623.14
+Nigeria,Africa,Electronics,2020,20555.13,5324.54
+Nigeria,Africa,Clothing,2020,34986.86,4047.67
+Nigeria,Africa,Home & Garden,2020,61903.59,11253.49
+Nigeria,Africa,Sports,2020,43397.06,6511.67
+Nigeria,Africa,Books,2020,78506.72,18216.66
+Egypt,Africa,Electronics,2020,63916.2,14211.39
+Egypt,Africa,Clothing,2020,24788.28,4243.62
+Egypt,Africa,Home & Garden,2020,55799.15,6671.73
+Egypt,Africa,Sports,2020,1000.0,134.64
+Egypt,Africa,Books,2020,13574.61,3029.45
+United States,North America,Electronics,2021,65752.7,11501.63
+United States,North America,Clothing,2021,88056.43,23889.53
+United States,North America,Home & Garden,2021,55226.57,6302.11
+United States,North America,Sports,2021,70749.19,15363.55
+United States,North America,Books,2021,80864.79,14364.34
+Canada,North America,Electronics,2021,71716.08,14997.51
+Canada,North America,Clothing,2021,74526.42,21779.46
+Canada,North America,Home & Garden,2021,65093.25,10661.96
+Canada,North America,Sports,2021,65987.3,8158.21
+Canada,North America,Books,2021,103683.0,28564.09
+Mexico,North America,Electronics,2021,96437.54,15083.5
+Mexico,North America,Clothing,2021,83863.44,21919.13
+Mexico,North America,Home & Garden,2021,75116.35,13100.56
+Mexico,North America,Sports,2021,65752.63,18815.21
+Mexico,North America,Books,2021,75596.06,18912.18
+Brazil,South America,Electronics,2021,45189.38,12676.1
+Brazil,South America,Clothing,2021,69687.2,11429.39
+Brazil,South America,Home & Garden,2021,50681.5,5178.0
+Brazil,South America,Sports,2021,54211.78,15728.0
+Brazil,South America,Books,2021,84010.9,15935.95
+Argentina,South America,Electronics,2021,28838.8,6762.8
+Argentina,South America,Clothing,2021,64895.46,16738.07
+Argentina,South America,Home & Garden,2021,45330.03,5054.83
+Argentina,South America,Sports,2021,27501.89,7632.9
+Argentina,South America,Books,2021,36010.61,4630.9
+Chile,South America,Electronics,2021,65997.02,7934.46
+Chile,South America,Clothing,2021,51139.78,5858.2
+Chile,South America,Home & Garden,2021,62749.35,7295.85
+Chile,South America,Sports,2021,21241.42,5577.14
+Chile,South America,Books,2021,46837.15,5465.9
+United Kingdom,Europe,Electronics,2021,78439.48,14499.1
+United Kingdom,Europe,Clothing,2021,59081.86,11446.06
+United Kingdom,Europe,Home & Garden,2021,67156.86,16736.09
+United Kingdom,Europe,Sports,2021,75051.75,13132.11
+United Kingdom,Europe,Books,2021,76451.71,11064.03
+Germany,Europe,Electronics,2021,71275.75,21282.44
+Germany,Europe,Clothing,2021,63039.64,18524.86
+Germany,Europe,Home & Garden,2021,111408.48,26643.31
+Germany,Europe,Sports,2021,103150.32,22369.47
+Germany,Europe,Books,2021,67718.37,15170.71
+France,Europe,Electronics,2021,45628.46,8794.41
+France,Europe,Clothing,2021,76085.05,8791.39
+France,Europe,Home & Garden,2021,81045.1,13121.65
+France,Europe,Sports,2021,80993.9,10733.59
+France,Europe,Books,2021,48412.75,13872.46
+Italy,Europe,Electronics,2021,62153.48,16291.09
+Italy,Europe,Clothing,2021,38363.24,11278.14
+Italy,Europe,Home & Garden,2021,71768.5,13904.33
+Italy,Europe,Sports,2021,30911.79,3439.71
+Italy,Europe,Books,2021,71569.83,21466.91
+Spain,Europe,Electronics,2021,65337.16,16582.41
+Spain,Europe,Clothing,2021,50900.42,6404.9
+Spain,Europe,Home & Garden,2021,69917.96,10189.04
+Spain,Europe,Sports,2021,93385.57,16028.0
+Spain,Europe,Books,2021,67737.69,13822.66
+China,Asia,Electronics,2021,69823.82,18882.9
+China,Asia,Clothing,2021,105870.17,29149.31
+China,Asia,Home & Garden,2021,40287.63,4260.68
+China,Asia,Sports,2021,78459.92,18894.4
+China,Asia,Books,2021,50482.75,5195.13
+Japan,Asia,Electronics,2021,70257.94,12537.45
+Japan,Asia,Clothing,2021,75263.75,12768.58
+Japan,Asia,Home & Garden,2021,87412.9,15673.88
+Japan,Asia,Sports,2021,79321.36,22995.59
+Japan,Asia,Books,2021,29061.38,5574.76
+India,Asia,Electronics,2021,61904.01,10260.61
+India,Asia,Clothing,2021,39867.91,4591.69
+India,Asia,Home & Garden,2021,42615.83,7207.76
+India,Asia,Sports,2021,63647.49,14862.42
+India,Asia,Books,2021,49581.34,5363.4
+South Korea,Asia,Electronics,2021,46491.0,6294.98
+South Korea,Asia,Clothing,2021,33228.74,5743.72
+South Korea,Asia,Home & Garden,2021,95541.37,10305.32
+South Korea,Asia,Sports,2021,75285.78,8759.64
+South Korea,Asia,Books,2021,56873.25,14857.58
+Australia,Oceania,Electronics,2021,41851.34,5937.44
+Australia,Oceania,Clothing,2021,34364.62,7685.68
+Australia,Oceania,Home & Garden,2021,29641.49,7395.38
+Australia,Oceania,Sports,2021,60204.61,12181.53
+Australia,Oceania,Books,2021,35813.38,6786.01
+New Zealand,Oceania,Electronics,2021,26920.62,4141.7
+New Zealand,Oceania,Clothing,2021,46957.47,7720.55
+New Zealand,Oceania,Home & Garden,2021,34893.67,4325.15
+New Zealand,Oceania,Sports,2021,57826.16,13636.59
+New Zealand,Oceania,Books,2021,57280.13,6723.77
+South Africa,Africa,Electronics,2021,90687.6,22589.18
+South Africa,Africa,Clothing,2021,33489.61,5249.67
+South Africa,Africa,Home & Garden,2021,64387.73,13789.0
+South Africa,Africa,Sports,2021,31836.33,3831.71
+South Africa,Africa,Books,2021,39998.39,5285.24
+Nigeria,Africa,Electronics,2021,36794.14,4955.24
+Nigeria,Africa,Clothing,2021,15881.82,4708.57
+Nigeria,Africa,Home & Garden,2021,41877.96,12307.69
+Nigeria,Africa,Sports,2021,54927.75,8325.98
+Nigeria,Africa,Books,2021,52625.98,15044.46
+Egypt,Africa,Electronics,2021,88747.87,13844.3
+Egypt,Africa,Clothing,2021,42913.64,7069.41
+Egypt,Africa,Home & Garden,2021,40491.59,6012.27
+Egypt,Africa,Sports,2021,49374.25,7787.61
+Egypt,Africa,Books,2021,34251.59,6721.12
+United States,North America,Electronics,2022,60570.68,10134.74
+United States,North America,Clothing,2022,65256.96,15420.26
+United States,North America,Home & Garden,2022,94128.44,18290.59
+United States,North America,Sports,2022,30006.38,8579.0
+United States,North America,Books,2022,80330.86,23108.62
+Canada,North America,Electronics,2022,93881.66,25194.62
+Canada,North America,Clothing,2022,80536.68,11301.35
+Canada,North America,Home & Garden,2022,66238.95,17415.21
+Canada,North America,Sports,2022,91896.94,15784.78
+Canada,North America,Books,2022,73658.51,19395.75
+Mexico,North America,Electronics,2022,24101.77,4640.46
+Mexico,North America,Clothing,2022,94443.12,18940.01
+Mexico,North America,Home & Garden,2022,81260.36,14365.06
+Mexico,North America,Sports,2022,95557.35,21485.84
+Mexico,North America,Books,2022,47450.58,6066.77
+Brazil,South America,Electronics,2022,63877.31,13202.94
+Brazil,South America,Clothing,2022,53969.1,7034.06
+Brazil,South America,Home & Garden,2022,29544.14,7350.26
+Brazil,South America,Sports,2022,48685.21,12292.61
+Brazil,South America,Books,2022,48932.79,12930.56
+Argentina,South America,Electronics,2022,41058.06,10652.89
+Argentina,South America,Clothing,2022,40825.65,9979.85
+Argentina,South America,Home & Garden,2022,69822.28,16672.84
+Argentina,South America,Sports,2022,26921.55,4553.49
+Argentina,South America,Books,2022,30799.42,5925.84
+Chile,South America,Electronics,2022,65925.82,14654.71
+Chile,South America,Clothing,2022,55269.76,13227.72
+Chile,South America,Home & Garden,2022,55463.5,7238.42
+Chile,South America,Sports,2022,84957.47,15702.36
+Chile,South America,Books,2022,53258.73,15184.79
+United Kingdom,Europe,Electronics,2022,45073.77,13385.48
+United Kingdom,Europe,Clothing,2022,117124.24,21059.0
+United Kingdom,Europe,Home & Garden,2022,59784.44,15578.07
+United Kingdom,Europe,Sports,2022,70015.12,19882.27
+United Kingdom,Europe,Books,2022,33370.37,8259.17
+Germany,Europe,Electronics,2022,34392.41,6551.34
+Germany,Europe,Clothing,2022,58844.39,11749.67
+Germany,Europe,Home & Garden,2022,79900.49,13781.14
+Germany,Europe,Sports,2022,106687.47,10948.15
+Germany,Europe,Books,2022,47748.1,13952.67
+France,Europe,Electronics,2022,54224.04,6348.0
+France,Europe,Clothing,2022,65804.91,14416.34
+France,Europe,Home & Garden,2022,65151.0,9250.21
+France,Europe,Sports,2022,63535.72,8776.67
+France,Europe,Books,2022,61644.19,13128.25
+Italy,Europe,Electronics,2022,78780.6,14822.77
+Italy,Europe,Clothing,2022,78931.71,10343.85
+Italy,Europe,Home & Garden,2022,69377.82,20065.67
+Italy,Europe,Sports,2022,33664.44,7702.42
+Italy,Europe,Books,2022,57595.18,7558.24
+Spain,Europe,Electronics,2022,89603.5,9445.93
+Spain,Europe,Clothing,2022,47621.26,11161.4
+Spain,Europe,Home & Garden,2022,57218.73,13191.73
+Spain,Europe,Sports,2022,57015.63,8474.49
+Spain,Europe,Books,2022,81085.04,21572.19
+China,Asia,Electronics,2022,84599.7,11928.29
+China,Asia,Clothing,2022,69128.09,7092.57
+China,Asia,Home & Garden,2022,38767.41,10798.05
+China,Asia,Sports,2022,55836.03,8480.64
+China,Asia,Books,2022,74918.26,11508.4
+Japan,Asia,Electronics,2022,45726.24,9621.23
+Japan,Asia,Clothing,2022,25712.94,7448.8
+Japan,Asia,Home & Garden,2022,52187.14,14283.29
+Japan,Asia,Sports,2022,77338.02,20105.65
+Japan,Asia,Books,2022,53170.25,8174.15
+India,Asia,Electronics,2022,102155.6,15484.49
+India,Asia,Clothing,2022,62155.66,18452.8
+India,Asia,Home & Garden,2022,37312.03,5763.27
+India,Asia,Sports,2022,58633.35,9077.09
+India,Asia,Books,2022,99688.29,26511.94
+South Korea,Asia,Electronics,2022,69521.99,15302.02
+South Korea,Asia,Clothing,2022,44483.84,12583.69
+South Korea,Asia,Home & Garden,2022,20466.38,4170.71
+South Korea,Asia,Sports,2022,54728.56,12074.78
+South Korea,Asia,Books,2022,41959.37,6618.62
+Australia,Oceania,Electronics,2022,65700.79,10474.31
+Australia,Oceania,Clothing,2022,48920.93,11385.57
+Australia,Oceania,Home & Garden,2022,52325.0,7481.85
+Australia,Oceania,Sports,2022,41975.48,8364.59
+Australia,Oceania,Books,2022,29592.25,7521.83
+New Zealand,Oceania,Electronics,2022,58329.18,13863.71
+New Zealand,Oceania,Clothing,2022,24628.81,6497.58
+New Zealand,Oceania,Home & Garden,2022,64348.89,9937.34
+New Zealand,Oceania,Sports,2022,29277.67,3464.03
+New Zealand,Oceania,Books,2022,51986.86,7123.58
+South Africa,Africa,Electronics,2022,66566.56,16404.99
+South Africa,Africa,Clothing,2022,63800.76,15213.63
+South Africa,Africa,Home & Garden,2022,46358.54,9173.66
+South Africa,Africa,Sports,2022,57482.71,7824.26
+South Africa,Africa,Books,2022,62946.51,6722.01
+Nigeria,Africa,Electronics,2022,39049.92,11124.51
+Nigeria,Africa,Clothing,2022,66533.96,17891.64
+Nigeria,Africa,Home & Garden,2022,61494.03,6604.55
+Nigeria,Africa,Sports,2022,31427.77,3900.61
+Nigeria,Africa,Books,2022,50938.26,8556.35
+Egypt,Africa,Electronics,2022,46759.51,7624.52
+Egypt,Africa,Clothing,2022,72687.44,11902.61
+Egypt,Africa,Home & Garden,2022,64431.64,14379.38
+Egypt,Africa,Sports,2022,56561.66,16279.21
+Egypt,Africa,Books,2022,64930.41,11712.55
+United States,North America,Electronics,2023,124911.01,34317.48
+United States,North America,Clothing,2023,28366.05,7021.06
+United States,North America,Home & Garden,2023,64136.87,10962.56
+United States,North America,Sports,2023,47107.83,6911.73
+United States,North America,Books,2023,75390.66,13333.99
+Canada,North America,Electronics,2023,54325.11,15753.86
+Canada,North America,Clothing,2023,96077.31,27761.19
+Canada,North America,Home & Garden,2023,123649.28,16495.65
+Canada,North America,Sports,2023,81207.43,17991.29
+Canada,North America,Books,2023,40045.71,5418.41
+Mexico,North America,Electronics,2023,58201.95,14894.86
+Mexico,North America,Clothing,2023,63000.12,18510.73
+Mexico,North America,Home & Garden,2023,104107.61,24902.97
+Mexico,North America,Sports,2023,80848.66,11714.01
+Mexico,North America,Books,2023,71987.05,15735.5
+Brazil,South America,Electronics,2023,38221.84,10529.82
+Brazil,South America,Clothing,2023,38869.66,10796.03
+Brazil,South America,Home & Garden,2023,63570.53,13360.71
+Brazil,South America,Sports,2023,43354.31,7566.96
+Brazil,South America,Books,2023,58508.09,11653.36
+Argentina,South America,Electronics,2023,43354.77,11716.25
+Argentina,South America,Clothing,2023,1000.0,218.48
+Argentina,South America,Home & Garden,2023,47879.21,11280.5
+Argentina,South America,Sports,2023,27721.8,7643.62
+Argentina,South America,Books,2023,64403.34,17396.39
+Chile,South America,Electronics,2023,59659.3,15953.06
+Chile,South America,Clothing,2023,71846.6,16073.68
+Chile,South America,Home & Garden,2023,42664.94,11782.95
+Chile,South America,Sports,2023,48226.8,8055.02
+Chile,South America,Books,2023,42131.67,11105.63
+United Kingdom,Europe,Electronics,2023,71952.78,7287.17
+United Kingdom,Europe,Clothing,2023,73499.21,21773.2
+United Kingdom,Europe,Home & Garden,2023,42214.07,9574.2
+United Kingdom,Europe,Sports,2023,95223.26,11559.74
+United Kingdom,Europe,Books,2023,77750.25,22749.6
+Germany,Europe,Electronics,2023,81367.68,23304.16
+Germany,Europe,Clothing,2023,57264.99,9173.43
+Germany,Europe,Home & Garden,2023,58795.53,12725.36
+Germany,Europe,Sports,2023,80687.47,8806.91
+Germany,Europe,Books,2023,69529.47,7294.85
+France,Europe,Electronics,2023,95198.97,22529.7
+France,Europe,Clothing,2023,29798.16,8922.31
+France,Europe,Home & Garden,2023,25769.7,3420.28
+France,Europe,Sports,2023,82584.95,11904.94
+France,Europe,Books,2023,66933.72,15455.15
+Italy,Europe,Electronics,2023,54928.16,15859.03
+Italy,Europe,Clothing,2023,95659.0,17172.6
+Italy,Europe,Home & Garden,2023,81475.99,11894.75
+Italy,Europe,Sports,2023,47813.8,13047.03
+Italy,Europe,Books,2023,74712.66,10243.49
+Spain,Europe,Electronics,2023,73966.91,18801.23
+Spain,Europe,Clothing,2023,77006.19,17345.19
+Spain,Europe,Home & Garden,2023,72377.18,18767.94
+Spain,Europe,Sports,2023,44652.18,5583.18
+Spain,Europe,Books,2023,60815.05,8520.49
+China,Asia,Electronics,2023,46593.57,10082.58
+China,Asia,Clothing,2023,71868.46,11647.89
+China,Asia,Home & Garden,2023,54888.88,6284.19
+China,Asia,Sports,2023,39739.09,8742.76
+China,Asia,Books,2023,72955.24,19845.61
+Japan,Asia,Electronics,2023,42355.87,6285.99
+Japan,Asia,Clothing,2023,103123.46,24800.47
+Japan,Asia,Home & Garden,2023,56157.07,9282.33
+Japan,Asia,Sports,2023,44414.57,7556.05
+Japan,Asia,Books,2023,40565.34,8661.03
+India,Asia,Electronics,2023,80916.44,11330.73
+India,Asia,Clothing,2023,89811.57,9548.52
+India,Asia,Home & Garden,2023,94405.27,25885.34
+India,Asia,Sports,2023,79289.34,13311.89
+India,Asia,Books,2023,66812.33,17602.35
+South Korea,Asia,Electronics,2023,93908.76,19277.64
+South Korea,Asia,Clothing,2023,54371.36,6093.42
+South Korea,Asia,Home & Garden,2023,45855.05,12580.64
+South Korea,Asia,Sports,2023,38785.14,10004.23
+South Korea,Asia,Books,2023,70272.97,14832.71
+Australia,Oceania,Electronics,2023,39768.43,11901.37
+Australia,Oceania,Clothing,2023,51170.21,7159.15
+Australia,Oceania,Home & Garden,2023,43524.14,4619.24
+Australia,Oceania,Sports,2023,37796.43,10343.16
+Australia,Oceania,Books,2023,68358.98,12653.16
+New Zealand,Oceania,Electronics,2023,24291.64,7227.49
+New Zealand,Oceania,Clothing,2023,36581.58,8964.37
+New Zealand,Oceania,Home & Garden,2023,65987.67,18485.81
+New Zealand,Oceania,Sports,2023,22641.87,4946.57
+New Zealand,Oceania,Books,2023,79048.56,19495.16
+South Africa,Africa,Electronics,2023,52596.33,14821.99
+South Africa,Africa,Clothing,2023,38387.31,11296.58
+South Africa,Africa,Home & Garden,2023,53399.55,10597.44
+South Africa,Africa,Sports,2023,56300.93,10644.31
+South Africa,Africa,Books,2023,17659.6,3860.22
+Nigeria,Africa,Electronics,2023,38965.04,11451.14
+Nigeria,Africa,Clothing,2023,55880.57,9222.42
+Nigeria,Africa,Home & Garden,2023,44717.0,13145.2
+Nigeria,Africa,Sports,2023,25299.54,2901.84
+Nigeria,Africa,Books,2023,44737.37,7489.06
+Egypt,Africa,Electronics,2023,52279.68,7828.51
+Egypt,Africa,Clothing,2023,76762.51,10240.76
+Egypt,Africa,Home & Garden,2023,68818.69,13414.56
+Egypt,Africa,Sports,2023,57879.24,12563.9
+Egypt,Africa,Books,2023,47349.0,5794.76
+United States,North America,Electronics,2024,73202.86,15096.91
+United States,North America,Clothing,2024,66879.62,19179.4
+United States,North America,Home & Garden,2024,66778.29,7233.06
+United States,North America,Sports,2024,80397.88,21995.55
+United States,North America,Books,2024,82973.95,16409.7
+Canada,North America,Electronics,2024,57416.44,6085.84
+Canada,North America,Clothing,2024,94734.58,13297.96
+Canada,North America,Home & Garden,2024,77969.24,14716.7
+Canada,North America,Sports,2024,71796.81,17125.35
+Canada,North America,Books,2024,84322.06,18851.84
+Mexico,North America,Electronics,2024,84778.0,8993.03
+Mexico,North America,Clothing,2024,81691.38,19222.2
+Mexico,North America,Home & Garden,2024,83656.41,14955.5
+Mexico,North America,Sports,2024,59121.5,13690.71
+Mexico,North America,Books,2024,75200.7,20616.32
+Brazil,South America,Electronics,2024,62284.91,15427.34
+Brazil,South America,Clothing,2024,51158.09,8461.89
+Brazil,South America,Home & Garden,2024,68553.55,17306.83
+Brazil,South America,Sports,2024,52415.08,13814.88
+Brazil,South America,Books,2024,46664.13,4720.16
+Argentina,South America,Electronics,2024,26355.62,4723.84
+Argentina,South America,Clothing,2024,44485.36,8440.59
+Argentina,South America,Home & Garden,2024,33800.12,4916.36
+Argentina,South America,Sports,2024,49044.83,11458.96
+Argentina,South America,Books,2024,50939.92,8963.24
+Chile,South America,Electronics,2024,56517.72,11068.22
+Chile,South America,Clothing,2024,20929.42,4521.48
+Chile,South America,Home & Garden,2024,88555.04,22402.36
+Chile,South America,Sports,2024,63188.39,18394.44
+Chile,South America,Books,2024,48170.14,13748.09
+United Kingdom,Europe,Electronics,2024,48894.32,9640.7
+United Kingdom,Europe,Clothing,2024,43102.47,6959.24
+United Kingdom,Europe,Home & Garden,2024,75467.95,12245.55
+United Kingdom,Europe,Sports,2024,98398.51,15205.01
+United Kingdom,Europe,Books,2024,44718.33,6091.97
+Germany,Europe,Electronics,2024,48855.79,10017.03
+Germany,Europe,Clothing,2024,54872.24,11713.16
+Germany,Europe,Home & Garden,2024,91873.87,19297.67
+Germany,Europe,Sports,2024,65294.85,18953.83
+Germany,Europe,Books,2024,90439.85,25037.48
+France,Europe,Electronics,2024,47996.66,10664.67
+France,Europe,Clothing,2024,85909.16,24054.96
+France,Europe,Home & Garden,2024,37280.14,9547.63
+France,Europe,Sports,2024,77854.34,14383.41
+France,Europe,Books,2024,53261.9,11971.78
+Italy,Europe,Electronics,2024,102153.46,13647.99
+Italy,Europe,Clothing,2024,79427.64,11385.79
+Italy,Europe,Home & Garden,2024,96996.38,20305.17
+Italy,Europe,Sports,2024,47279.9,10349.35
+Italy,Europe,Books,2024,71120.06,9052.73
+Spain,Europe,Electronics,2024,57523.93,10678.74
+Spain,Europe,Clothing,2024,89559.73,26711.3
+Spain,Europe,Home & Garden,2024,84237.15,13042.62
+Spain,Europe,Sports,2024,39978.31,6836.26
+Spain,Europe,Books,2024,61814.76,7017.37
+China,Asia,Electronics,2024,52314.14,10881.46
+China,Asia,Clothing,2024,70123.49,14486.92
+China,Asia,Home & Garden,2024,32725.8,7654.48
+China,Asia,Sports,2024,92201.4,17798.66
+China,Asia,Books,2024,58331.37,17005.06
+Japan,Asia,Electronics,2024,65094.24,9125.35
+Japan,Asia,Clothing,2024,43937.12,8351.31
+Japan,Asia,Home & Garden,2024,52940.93,12334.3
+Japan,Asia,Sports,2024,43353.92,5656.96
+Japan,Asia,Books,2024,82544.34,16854.86
+India,Asia,Electronics,2024,47641.49,11960.59
+India,Asia,Clothing,2024,61641.39,15805.2
+India,Asia,Home & Garden,2024,36280.57,6241.25
+India,Asia,Sports,2024,29488.26,5290.08
+India,Asia,Books,2024,93146.11,18921.32
+South Korea,Asia,Electronics,2024,64083.18,19124.45
+South Korea,Asia,Clothing,2024,55392.71,15848.91
+South Korea,Asia,Home & Garden,2024,60978.48,10739.81
+South Korea,Asia,Sports,2024,73229.91,11785.32
+South Korea,Asia,Books,2024,53072.0,7149.06
+Australia,Oceania,Electronics,2024,41016.7,12104.93
+Australia,Oceania,Clothing,2024,68661.92,8686.07
+Australia,Oceania,Home & Garden,2024,85472.46,21621.28
+Australia,Oceania,Sports,2024,43596.11,7835.64
+Australia,Oceania,Books,2024,39462.74,4484.33
+New Zealand,Oceania,Electronics,2024,53498.21,15683.77
+New Zealand,Oceania,Clothing,2024,19731.22,3970.48
+New Zealand,Oceania,Home & Garden,2024,35189.53,8029.03
+New Zealand,Oceania,Sports,2024,51689.2,11890.59
+New Zealand,Oceania,Books,2024,54251.99,6056.3
+South Africa,Africa,Electronics,2024,39490.61,4907.77
+South Africa,Africa,Clothing,2024,39286.61,9367.2
+South Africa,Africa,Home & Garden,2024,46591.64,13946.71
+South Africa,Africa,Sports,2024,62507.3,10079.35
+South Africa,Africa,Books,2024,68936.32,12768.16
+Nigeria,Africa,Electronics,2024,28372.99,4924.19
+Nigeria,Africa,Clothing,2024,66533.89,16415.43
+Nigeria,Africa,Home & Garden,2024,28397.13,2948.71
+Nigeria,Africa,Sports,2024,58964.3,7513.35
+Nigeria,Africa,Books,2024,28733.13,2942.97
+Egypt,Africa,Electronics,2024,34933.71,7321.82
+Egypt,Africa,Clothing,2024,67155.92,8032.96
+Egypt,Africa,Home & Garden,2024,31903.66,5262.04
+Egypt,Africa,Sports,2024,55964.35,9803.7
+Egypt,Africa,Books,2024,25495.83,6552.51

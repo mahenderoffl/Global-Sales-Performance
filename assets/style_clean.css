@@ -1,0 +1,96 @@
+/* Dashboard Styling */
+.main .block-container {
+    padding-bottom: 80px; /* Add space for fixed footer */
+}
+
+.main-header {
+    text-align: center;
+    color: #1f77b4;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: linear-gradient(90deg, #f0f2f6, #ffffff);
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.metric-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 1.5rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin: 0.5rem;
+    text-align: center;
+}
+
+.metric-value {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.metric-label {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+.sidebar-section {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    border-left: 4px solid #1f77b4;
+}
+
+.chart-container {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    margin-bottom: 1rem;
+}
+
+.kpi-container {
+    background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%);
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 0.5rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.data-table {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Fixed Footer at Bottom */
+body::after {
+    content: "Built using Streamlit • Python • Pandas • Plotly • NumPy | by Mahender Banoth (IIT Patna) | Instagram: @mahender_hustles";
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-align: center;
+    padding: 12px 20px;
+    box-shadow: 0 -4px 20px rgba(102, 126, 234, 0.3);
+    border-top: 2px solid rgba(255,255,255,0.2);
+    z-index: 1000;
+    font-size: 14px;
+    font-weight: 500;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+}
+
+/* Mobile responsive footer */
+@media (max-width: 768px) {
+    body::after {
+        font-size: 12px;
+        padding: 10px 15px;
+        content: "Built using Streamlit • Python • Pandas • Plotly • NumPy | by Mahender Banoth (IIT Patna) | @mahender_hustles";
+    }
+}
